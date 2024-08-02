@@ -1,0 +1,16 @@
+
+Sure, here is the text with spelling and grammatical corrections:
+
+Step 1: Start
+Step 2: Username and password login page (done at 07:27 on 4-5-23)
+Step 3: Separate databases for different users (done at 08:39 on 4-5-23)
+Step 4: Main database for users and passwords (I don't know how I am going to figure that out) (finally made it with a password hash and salt) (done at 08:40 on 4-5-23)
+Step 5: Main UI (going to do after eating breakfast or afterwards) (starting to make the UI simple at 13:57 on 4-5-23) (made an attempt with Tkinter but I shouldn't have trusted ChatGPT; it gave me an idea but it doesn't work, so sticking to the same plan. That's it for now. Wasted around 15 minutes, recorded at 15:12 on 4-5-23)
+Step 6: Will be like the SEToolkit interface by 1, 2, 3 number choice selection (Will make a Tkinter UI in the future after the working algorithm here) (It's been some days, watched a lot of videos, and got an idea on creating a login form at 12:38 on 06-05-23)
+Step 7: Create multiple tabs for sales and work done (I don't know how I am going to integrate this into the project. After a long time, now creating the login UI using the forest theme ttk at 08:34 on 10-05-23)
+Step 8: Only going to do the work done tab for now
+Step 9: Need to create a database using SQL (not decided yet) or can also use CSV or Excel sheet; all have their own advantages and disadvantages
+Step 10: Probably going to stick to SQL for its easy-to-use architecture and cloud support
+Step 11: Need to make functions for adding, updating, and saving the SQL files
+Step 12: Looking to work with classes but not now (actually not going to go with classes as the code will become much more complex)
+Step 13: Let me do the above steps and continue it...
